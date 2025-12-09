@@ -15,7 +15,7 @@ Ce projet illustre la conception d’une application Java orientée objet pour g
 ## Project Structure
 ```
 projets/
-├── UserProfileProject/
+├── Exercice1/
 │   └── src/
 │       └── ma/project/
 │           ├── bean/
@@ -157,8 +157,8 @@ Méthodes :
 
 - Fonctionnalité métier : recherche des utilisateurs par profil (ex. managers)
 ## 🖥️ Example Execution
-
 ### TestApp :
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/517d7dbb-508a-4ef2-becc-f9bba5663f4f" />
 
 ## 💡 Concepts Practiced
 
